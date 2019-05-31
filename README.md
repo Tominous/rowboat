@@ -1,6 +1,6 @@
 # Rowboat
 
-[![](https://discordapp.com/api/guilds/290923757399310337/embed.png?style=banner2)](https://discord.gg/rowboat)
+[![](https://discordapp.com/api/guilds/290923757399310337/embed.png?style=banner4)](https://discord.gg/rowboat)
 
 Rowboat is a private Discord bot focused on being a highly powerful and configurable moderation and utilitarian bot for Discord. Rowboat is built to feel and behave similarly to [AutoModerator](https://github.com/Deimos/AutoModerator) for reddit.
 
